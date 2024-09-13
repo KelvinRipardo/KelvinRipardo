@@ -3,7 +3,7 @@
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/kelvinripardo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvinripardo/)
 
-![Kelvin GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvin-ripardo&show_icons=true&theme=radical)
+![Kelvin GitHub stats](https://github-readme-stats.vercel.app/api?username=KelvinRipardo&show_icons=true&theme=radical)
 
 ### Tecnologias que eu estou estudando
 <div style="display: inline_block"><br/>
